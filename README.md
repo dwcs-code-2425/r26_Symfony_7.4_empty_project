@@ -41,3 +41,9 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 ## ✅ Proyecto listo
 
 Con estos pasos conseguimos un esqueleto limpio de Symfony 7.4 con Bootstrap integrado y sin Stimulus ni Turbo.
+Arranca el servidor local con:
+```bash
+symfony server:start
+```
+
+
