@@ -1,5 +1,7 @@
 # Instrucciones para recrear el esqueleto de Symfony WebApp 7.4
 
+Este proyecto se ha creado siguiendo los pasos indicados a continuación:
+
 ## 1️⃣ Crear el proyecto base
 
 ```bash
